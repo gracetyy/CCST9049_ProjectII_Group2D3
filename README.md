@@ -8,7 +8,7 @@ This is the repository for the CCST9049
 
 - [Link](https://www.youtube.com/watch?v=GdpL4P4RtdM) to our video
 [![Video Title](Assets/Project_Preview.png)](https://www.youtube.com/watch?v=GdpL4P4RtdM)
-- [Link](https://connecthkuhk-my.sharepoint.com/:p:/g/personal/gracetyy_connect_hku_hk/ET6SlABaWe1Pv2P9JNMn2egB6B03q1BvEL7icmRbj9kuOw?e=LE7n17) to our poster \
+- [Link](https://connecthkuhk-my.sharepoint.com/:p:/g/personal/gracetyy_connect_hku_hk/ET6SlABaWe1Pv2P9JNMn2egB6B03q1BvEL7icmRbj9kuOw?e=LE7n17) to our poster 
 <img src="Assets/Group2D3_Poster.png" alt="Poster of the Project" width="50%"/>
 
 ## Installation Guide
